@@ -1,0 +1,10 @@
+# Pig Dice game
+## For Udemy course: The Complete JavaScript Course 2019: Build Real Projects!
+
+
+Rules of the game:
+https://en.wikipedia.org/wiki/Pig_(dice_game)
+
+Modifications to the game:
+1. Two 6 in roll deletes score
+2. User can input winning score
