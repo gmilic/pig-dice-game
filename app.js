@@ -54,7 +54,6 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
 
 document.getElementById('win-score').addEventListener('change', function() {
   winScore = document.getElementById('win-score').value;
-  console.log(winScore);
 });
 
 function nextPlayer() {
